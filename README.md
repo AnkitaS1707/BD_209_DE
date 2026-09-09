@@ -1,0 +1,2 @@
+# Aparna_SQLTask
+SQLTASK FOR BIGDATA
